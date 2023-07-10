@@ -1,0 +1,19 @@
+var a, b, c :integer;
+begin
+ a = 5;
+b = 4;
+c = 0;
+while (a > b-5;)
+{
+c = c + b;
+b = b + 1;
+if (c == a;)
+{
+b = 15;
+}
+}
+if (b == 15;)
+{
+a = 18;
+}
+end

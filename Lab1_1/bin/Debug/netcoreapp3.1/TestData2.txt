@@ -1,0 +1,23 @@
+var a, b, c :integer;
+begin
+a = 4;
+b = 5;
+b = b - 1;
+c = 0;
+while(c < 7)
+{
+if (a < 3)
+{
+a = a + c;
+c = c + 1;
+}
+else
+{
+c = c + 1;
+}
+}
+if (c == 7)
+{
+a = c;
+}
+end
